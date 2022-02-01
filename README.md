@@ -1,5 +1,8 @@
 ### Hi there 👋  My name is Jackson Curry!
 
+I am currently a Master's Student... 
+On this account you can find the final products of many of the projects I have worked on.
+
 
 
 https://user-images.githubusercontent.com/77595308/151940643-a1f75850-51e0-46b0-8621-032a98ca97c0.mov
