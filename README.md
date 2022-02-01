@@ -1,5 +1,6 @@
-### Hi there 👋  My name is Jackson Curry!
+### Hi there 👋  My name is Jackson Curry, welcome to my professional portfolio github account!  
 
+On this account you can find the final products and demos of many of the projects I have worked on.  I generally use my school https://github.com/jacu9585real account while I am collaborating with others to build these projects so feel free to take a look over there to see more projects in progress.
 I am currently a Master's Student... 
 On this account you can find the final products of many of the projects I have worked on.
 
