@@ -7,11 +7,9 @@ I am currently working on a case study using traffic 🚗 and power grid ⚡ dat
 Other interests I am looking to collaborate🧑‍🤝‍🧑 on are natural language processing, image processing, reinforcement learning with robotic agents 🤖, and optimization/modelling problems.  Check out some visual demos from my work in the video 🎬 below!
 
 
-https://user-images.githubusercontent.com/77595308/151940643-a1f75850-51e0-46b0-8621-032a98ca97c0.mov
 
 
-
-https://user-images.githubusercontent.com/77595308/151940736-0f48beb8-5d24-46f1-b681-8bd77c188f74.mp4
+https://user-images.githubusercontent.com/77595308/154470807-f25b0f42-ab81-4b55-95b0-e3d4041fc7ec.mp4
 
 
 
