@@ -10,10 +10,10 @@ https://user-images.githubusercontent.com/77595308/151940643-a1f75850-51e0-46b0-
 
 
 
+https://user-images.githubusercontent.com/77595308/151940736-0f48beb8-5d24-46f1-b681-8bd77c188f74.mp4
 
 
-
-
+<!---
 **jacksonCurry6464/jacksonCurry6464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
-https://user-images.githubusercontent.com/77595308/151940736-0f48beb8-5d24-46f1-b681-8bd77c188f74.mp4
 
 
 - 👯 I’m looking to collaborate on ...
@@ -30,3 +29,4 @@ https://user-images.githubusercontent.com/77595308/151940736-0f48beb8-5d24-46f1-
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
