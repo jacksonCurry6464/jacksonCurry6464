@@ -4,7 +4,9 @@ I am currently an Applied Mathematics Master's Student working in Hodge Research
 
 I am currently working on a case study using traffic 🚗 and power grid ⚡ data from Greensboro North Carolina provided by the National Renewable Energy Laboratories (NREL).  I am using this data to forecast power system upgrades that will be need to be made to the power grid, as well as solve optimization problems surrounding the placement of Dynamic Wireless Power Transfer Stations.
 
-Other interests I am looking to collaborate🧑‍🤝‍🧑 on are natural language processing, image processing, reinforcement learning with robotic agents 🤖, and optimization/modelling problems.  Check out some visual demos from my work in the video 🎬 below!
+Other interests I am looking to collaborate🧑‍🤝‍🧑 on are natural language processing, image processing, reinforcement learning with robotic agents 🤖, and optimization/modelling problems.  
+
+Check out some visual demos from my work in the video 🎬 below!
 
 
 
