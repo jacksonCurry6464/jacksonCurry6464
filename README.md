@@ -1,5 +1,5 @@
 ### Hi there 👋  My name is Jackson Curry (He/Him/His), welcome to my professional portfolio github account!  
-I am currently an Applied Mathematics Master's Student working in Hodge Research lab at the University of Colorado Boulder.  I am determined to use my math and programming skills to advance the field of renewable energy ☀️ and promote sustainability🌱 ! 
+I am currently an Applied Mathematics Master's Student working in Hodge Research lab at the University of Colorado Boulder.  I am determined to use my math, cloud computing, and programming skills to advance the field of renewable energy ☀️ and promote sustainability🌱 ! 
 📫 How to reach me: jacksoncurry6464@gmail.com or www.linkedin.com/in/jacksoncurry6464
 
 I am currently working on a case study using traffic 🚗 and power grid ⚡ data from Greensboro North Carolina provided by the National Renewable Energy Laboratories (NREL).  I am using this data to forecast power system upgrades that will be need to be made to the power grid, as well as solve optimization problems surrounding the placement of Dynamic Wireless Power Transfer Stations.
