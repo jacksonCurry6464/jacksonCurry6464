@@ -8,7 +8,7 @@ Other interests I am looking to collaborate🧑‍🤝‍🧑 on are natural lan
 
 Check out some visual demos from my work in the video 🎬 below!
 
-NetApp update
+NetApp update (save separate)
 
 
 
