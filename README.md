@@ -1,14 +1,13 @@
 ### Hi there 👋  My name is Jackson Curry (He/Him/His), welcome to my professional portfolio github account!  
-I am currently an Applied Mathematics Master's Student working in Hodge Research lab at the University of Colorado Boulder.  I am determined to use my math, cloud computing, and programming skills to advance the field of renewable energy ☀️ and promote sustainability🌱 ! 
+I am currently working ot develop awesome grid modelling tools with my team Kevala Analytics based in San Francisco.  I am determined to use my math, cloud computing, and programming skills to advance the field of renewable energy ☀️ and decarbonize the power grid🌱 ! 
 📫 How to reach me: jacksoncurry6464@gmail.com or www.linkedin.com/in/jacksoncurry6464
 
-I am currently working on a case study using traffic 🚗 and power grid ⚡ data from Greensboro North Carolina provided by the National Renewable Energy Laboratories (NREL).  I am using this data to forecast power system upgrades that will be need to be made to the power grid, as well as solve optimization problems surrounding the placement of Dynamic Wireless Power Transfer Stations.
+
+During my masters degree program at CU Boulder, I worked on a case study using traffic 🚗 and power grid ⚡ data from Greensboro North Carolina provided by the National Renewable Energy Laboratories (NREL).  I am using this data to forecast power system upgrades that will be need to be made to the power grid, as well as solve optimization problems surrounding the placement of Dynamic Wireless Power Transfer Stations.
 
 Other interests I am looking to collaborate🧑‍🤝‍🧑 on are natural language processing, computer vision, reinforcement learning with robotic agents 🤖, and optimization/modelling problems.  
 
 Check out some visual demos from my work in the video 🎬 below!
-
-NetApp update (save separate)
 
 
 
