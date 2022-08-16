@@ -1,5 +1,5 @@
 ### Hi there 👋  My name is Jackson Curry (He/Him/His), welcome to my professional portfolio github account!  
-I am currently working ot develop awesome grid modelling tools with my team Kevala Analytics based in San Francisco.  I am determined to use my math, cloud computing, and programming skills to advance the field of renewable energy ☀️ and decarbonize the power grid🌱 ! 
+I am currently working to develop awesome powerflow modeling tools with my team Kevala Analytics in San Francisco.  I am determined to use my math, cloud computing, and programming skills to advance the field of renewable energy ☀️ and decarbonize the power grid🌱 ! 
 📫 How to reach me: jacksoncurry6464@gmail.com or www.linkedin.com/in/jacksoncurry6464
 
 
